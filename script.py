@@ -14,7 +14,7 @@ def badgecreate(universe):
             session.headers["Origin"] = "https://www.roblox.com/"
             session.headers["Referer"] = "https://www.roblox.com/"
             base = f"https://badges.roblox.com/v1/universes/{universe}/badges"
-            d = {"name":"badg ename","description":"badge description","paymentSourceType":"User","expectedCost":0} # edit here
+            d = {"name":"badg ename","description":"badge description","paymentSourceType":"User","expectedCost":0} # edit name and description here
             badge = session.post(base, data=d, files = {"upload_file":open("icon.png","rb")}).json()
             try:
                 print(badge['id'])
