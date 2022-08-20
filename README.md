@@ -18,4 +18,4 @@ now you are helping to kill badge community faster <img src="https://i.imgur.com
 
 ## video tutorial
 
-<video src="https://cdn.discordapp.com/attachments/1009245678909788201/1010670568112132217/NVIDIA_Share_QY0wJYsanN.mp4" width="300px" height="100px"></video>
+<a href="https://cdn.discordapp.com/attachments/1009245678909788201/1010670568112132217/NVIDIA_Share_QY0wJYsanN.mp4">click here</a>
