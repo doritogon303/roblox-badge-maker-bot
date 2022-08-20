@@ -1,8 +1,8 @@
-## Badge maker bot for roblox
+# Badge maker bot for roblox
 
 hi chat
 
-# how to use
+## how to use
 
 1. install python
 2. install requirements
@@ -16,3 +16,6 @@ pip install requests
 
 now you are helping to kill badge community faster <img src="https://i.imgur.com/Av033Sn.png" width="25px" height="25px"></img>
 
+## video tutorial
+
+<video src="https://cdn.discordapp.com/attachments/1009245678909788201/1010670568112132217/NVIDIA_Share_QY0wJYsanN.mp4" width="300px" height="100px"></video>
