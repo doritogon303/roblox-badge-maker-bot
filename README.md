@@ -14,5 +14,5 @@ pip install requests
 5. edit `script.py` file (17 line)
 6. run `script.py`
 
-now you are helping to kill badge community faster <img src="https://cloud.githubusercontent.com/assets/4307137/10105283/251b6868-63ae-11e5-9918-b789d9d682ec.png" width="45px" height="45px"></img>
+now you are helping to kill badge community faster <img src="https://i.imgur.com/Av033Sn.png" width="25px" height="25px"></img>
 
