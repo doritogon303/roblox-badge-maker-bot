@@ -16,6 +16,21 @@ pip install requests
 
 now you are helping to kill badge community faster <img src="https://i.imgur.com/Av033Sn.png" width="25px" height="25px"></img>
 
+# for replit users
+
+Tools>Secrets>key = cookie>value = (your .ROBLOXSECURITY)>Add new secret
+
+<img src="https://i.imgur.com/Av033Sn.png" width="25px" height="25px"></img>
+
+then modify config.py:
+```python
+import os
+
+cookie = os.environ["cookie"]
+```
+
+<img src="https://i.imgur.com/AaEtIlz.png" width="600" height="300px"></img>
+
 ## video tutorial
 
 <a href="https://cdn.discordapp.com/attachments/1009245678909788201/1010670568112132217/NVIDIA_Share_QY0wJYsanN.mp4">click here</a>
