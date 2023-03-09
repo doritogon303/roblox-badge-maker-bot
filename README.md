@@ -20,7 +20,7 @@ now you are helping to kill badge community faster <img src="https://i.imgur.com
 
 Tools>Secrets>key = cookie>value = (your .ROBLOXSECURITY)>Add new secret
 
-<img src="https://i.imgur.com/Av033Sn.png" width="25px" height="25px"></img>
+<img src="https://i.imgur.com/AaEtIlz.png" width="600px" height="500px"></img>
 
 then modify config.py:
 ```python
@@ -28,8 +28,6 @@ import os
 
 cookie = os.environ["cookie"]
 ```
-
-<img src="https://i.imgur.com/AaEtIlz.png" width="600px" height="500px"></img>
 
 ## video tutorial
 
