@@ -29,7 +29,7 @@ import os
 cookie = os.environ["cookie"]
 ```
 
-<img src="https://i.imgur.com/AaEtIlz.png" width="450" height="500px"></img>
+<img src="https://i.imgur.com/AaEtIlz.png" width="5000" height="500px"></img>
 
 ## video tutorial
 
