@@ -1,4 +1,6 @@
 # Badge maker bot for roblox
+[![Run on Repl.it](https://repl.it/badge/github/doritogon303/roblox-badge-maker-bot)](https://replit.com/@Doritogon303/roblox-badge-maker-bot?v=1)
+
 
 hi chat
 
@@ -15,19 +17,6 @@ pip install requests
 6. run `script.py`
 
 now you are helping to kill badge community faster <img src="https://i.imgur.com/Av033Sn.png" width="25px" height="25px">
-
-# for replit users
-
-Tools>Secrets>key = cookie>value = (your .ROBLOXSECURITY)>Add new secret
-
-<img src="https://i.imgur.com/AaEtIlz.png" width="600px" height="500px">
-
-then modify config.py:
-```python
-import os
-
-cookie = os.environ["cookie"]
-```
 
 ## video tutorial
 
